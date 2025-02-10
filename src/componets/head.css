@@ -1,0 +1,12 @@
+.Headerr{
+    color: brown;
+    padding: 20px 20px 30px 30px;
+    display: flex;
+    justify-content: flex-end;
+    background-color: aquamarine;
+    border-style: dashed;
+    font-family: monospace;
+    font-size: xxx-large;
+    font-weight: bolder;
+    font-style: italic;
+}
