@@ -7,16 +7,18 @@ import Body from "./componets/body.jsx";
 import Counter from "./componets/counter.jsx";
 import Loggedin from "./componets/loggedin.jsx";
 import ColourChange from "./componets/dakrth.jsx";
+import Filteritem from "./componets/filteritem.jsx";
 
 
 createRoot(document.getElementById('root')).render(
     <>
-    <Hello/>
+    {/* <Hello/>
     <Header/>
     <Body/>
     <Footer/>
     <Counter/>
     <Loggedin/>
-    <ColourChange/>
+    <ColourChange/> */}
+    <Filteritem/>
 </>
 );
